@@ -35,53 +35,6 @@ NeOS leverages and extends several key projects within the Arch Linux ecosystem:
 
 ---
 
-## 👥 Project Team
-
-<table align="center">
-  <tr>
-    <td align="center" width="160">
-      <a href="https://github.com/uthsarad">
-        <img src="https://github.com/uthsarad.png" width="80" style="border-radius: 50%;" /><br>
-        <b>Uthsara Dahanaike</b>
-      </a><br>
-      <sub>Project Lead</sub>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/NimuthuGanegoda">
-        <img src="https://github.com/NimuthuGanegoda.png" width="80" style="border-radius: 50%;" /><br>
-        <b>Nimuthu Ganegoda</b>
-      </a><br>
-      <sub>Project Architect</sub>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/RaidenShogun-AI">
-        <img src="https://github.com/RaidenShogun-AI.png" width="80" style="border-radius: 50%;" /><br>
-        <b>Raiden Shogun</b>
-      </a><br>
-      <sub>Core Contributor</sub>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/MikoYae-AI">
-        <img src="https://github.com/MikoYae-AI.png" width="80" style="border-radius: 50%;" /><br>
-        <b>Yae Miko</b>
-      </a><br>
-      <sub>Contributor</sub>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/Neored727">
-        <img src="https://github.com/Neored727.png" width="80" style="border-radius: 50%;" /><br>
-        <b>Neo RED</b>
-      </a><br>
-      <sub>Core Contributor</sub>
-    </td>
-  </tr>
-</table>
-
-*   **Hajime** — Testing & Quality Assurance Lead
-*   **Specialist Bots** — Automated Quality Assurance & Optimization
-
----
-
 ## 🧪 Testing & Quality Assurance
 
 Because NeOS is a curated distribution, every release is exercised before it reaches users. QA is led by **Hajime**, covering:
